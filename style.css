@@ -1,0 +1,22 @@
+table{
+    background-color:black ;
+    size: 50px;
+}
+h1{
+    color: brown;
+    font-family: cursive;
+    font-size: 25px;
+    
+}
+h3{
+    color: brown;
+    font-family: cursive;
+}
+#prices{
+    background-color: yellow;
+    font-family: cursive;
+}
+small{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
